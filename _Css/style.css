@@ -1,0 +1,150 @@
+body{
+	background-image: url("../_Img/background_duotone.png");
+    /*  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;*/
+}
+
+.orientation{
+	text-orientation: mixed;
+	writing-mode: vertical-lr;
+	white-space:nowrap;
+	transform: rotate(180deg);
+	font-family: Gotham;
+	display:block;
+	color: #fff;
+}
+
+#orientation1{
+	font-size:5.62em;
+}
+
+#orientation2{
+	font-size:8.56em;
+}
+
+.title_down{
+	padding-top:10%;
+	float: left;
+	transform: translate(-35px, 545px)
+}
+
+.title_stay{
+	
+}
+
+.text_c{
+	color: #ffffff;
+	transform: translate(0px,-750px);
+}
+
+.text_c_2{
+	color: #ffffff;
+	transform: translate(0px, 500px);
+	
+}
+
+.text_move{
+	transform: translate(175px, 600px);
+}
+
+.quien_move{
+	transform: translate(330px, -255px)
+}
+
+.quien_move_2{
+	transform: translate(500px, -255px)
+}
+
+.hola_move{
+	transform: translate(190px, -255px);
+}
+
+.hola_move_2{
+	transform: translate(190px, -255px);
+}
+
+.head_text{
+	font-family: futura;	
+	font-size: 5.0em;
+	font-weight: 900;
+}
+
+.description_text{
+	line-height: 2;
+	letter-spacing: 2px;
+}
+
+.head_text_2{
+	font-family: futura;	
+	font-size: 5.0em;
+	font-weight: 900;
+} 
+
+.description_info{
+	letter-spacing: 1px;
+	line-height: 2;
+}
+
+.description_move{
+	transform: translate(0px, 50px);
+}
+
+.link_move{
+	transform: translate(675px, 75px);
+}
+
+.link_custom{
+	font-size
+}
+
+._Img{
+	transform: translate(-500px, -150px);
+}
+
+.subscribe{
+	transform: translate(450px, -650px);
+}
+
+.slide_move{
+	transform: translate(100px, 400px);
+}
+
+.text_c_project{
+	transform: translate(-100px, 350px);
+	color: #FFFFFF;
+}
+
+.text_p_project{
+	font-size:1.0em;
+	font-family: verdana;
+	line-height: 2;
+}
+
+.footer_c{
+	color: white;
+	transform: translate(-550px, 1000px);
+}
+
+.navbar a{
+	transition: color 0.5s ease;
+	color: #38363b;
+	font-size: 1.5em;
+	font-family: gotham;
+}
+
+.navbar a:hover{
+	text-decoration: none;
+	color: white;
+	
+}
+
+span a:{
+	transition: color 0.5s ease !important;
+	color: white;
+}
+
+span a:hover{
+	color:#F26522 !important;
+}
